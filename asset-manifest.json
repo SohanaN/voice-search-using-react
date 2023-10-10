@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/speech-recognition-using-react/static/css/main.9870a5b0.css",
+    "main.js": "/speech-recognition-using-react/static/js/main.b7542319.js",
+    "static/js/787.0a110dfd.chunk.js": "/speech-recognition-using-react/static/js/787.0a110dfd.chunk.js",
+    "index.html": "/speech-recognition-using-react/index.html",
+    "main.9870a5b0.css.map": "/speech-recognition-using-react/static/css/main.9870a5b0.css.map",
+    "main.b7542319.js.map": "/speech-recognition-using-react/static/js/main.b7542319.js.map",
+    "787.0a110dfd.chunk.js.map": "/speech-recognition-using-react/static/js/787.0a110dfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9870a5b0.css",
+    "static/js/main.b7542319.js"
+  ]
+}
